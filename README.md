@@ -17,8 +17,6 @@
                 <h2>How I used GitHub Projects to move my house</h2>
                 <p class="author">Michelle "MishManners" Duke</p>
             </section>
-            
-            <!-- Add more content sections as needed -->
         </main>
     </div>
 </body>
