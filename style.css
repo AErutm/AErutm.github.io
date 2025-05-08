@@ -13,11 +13,6 @@ header h1 {
     text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
 }
 
-body {
-    background: linear-gradient(135deg, #0077be, #00b4d8, #ffd700);
-    font-family: 'Arial', sans-serif;
-    line-height: 1.6;
-}
 .author {
     color: #636e72;
     font-style: italic;
@@ -92,4 +87,10 @@ body {
 .user-handle {
   color: #6b7280;
   font-size: 1rem;
+}
+
+body {
+    background: linear-gradient(135deg, #0077be, #00b4d8, #ffd700);
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
 }
