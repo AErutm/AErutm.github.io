@@ -33,8 +33,7 @@ body {
       rgba(0, 119, 190, 0.9), 
       rgba(0, 180, 216, 0.9), 
       rgba(255, 215, 0, 0.8)  
-    ),
-    url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAAIklEQVQIW2NkQAKrVq36zwjjgzhhYWGMYAEYB8RmROaABADeOQ8CXl/xfgAAAABJRU5ErkJggg==');
+    )
   
   background-blend-mode: soft-light;
   min-height: 100vh;
